@@ -1,0 +1,3 @@
+core_cm3.h:1762:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+APP_Web.c:32:6:Init_WebAPP	24	static
+APP_Web.c:85:6:Task_WebAPP	16	static

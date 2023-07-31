@@ -1,0 +1,10 @@
+w5500_init.c:10:7:wizchip_select	8	static
+w5500_init.c:13:7:wizchip_deselect	8	static
+w5500_init.c:16:9:wizchip_read	16	static
+w5500_init.c:21:7:wizchip_write	16	static
+w5500_init.c:24:6:wizchip_readburst	16	static
+w5500_init.c:27:7:wizchip_writeburst	16	static
+w5500_init.c:30:6:delay_cnt	16	static
+w5500_init.c:33:6:Display_Net_Conf	64	static
+w5500_init.c:50:6:Net_Conf	8	static
+w5500_init.c:63:6:W5500_Init	32	static
